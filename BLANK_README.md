@@ -29,23 +29,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/DillonM07/Frogmania/">
+    <img src="https://cdn.dribbble.com/users/568868/screenshots/14971285/media/3462f44cbd43bcf839bb1a6c28b1098e.gif" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Frogmania - Web Based Incremental Game</h3>
 
   <p align="center">
-    project_description
+    Frogmania is a game about forming your frog empire! You and your loyal subjects will assimilate more and more frogs, eventually making it a streamline production of brilliance! As you build your empire you can dominate the world and thrive as the supperior life form! From regular old frogs to Alien frogeez maybe even the  most powerful of arcane wizardz... FROGLIN! So Tap Tap Tap away and build up your own frog regime! Dedicated to my younger brother Riker, the frog loving crazed  six year old!      
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://dillonm07.github.io/Frogmania/">Play Game</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/DillonM07/Frogmania/discussions/9">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/DillonM07/Frogmania/discussions/8">Request Feature</a>
   </p>
 </div>
 
@@ -61,18 +61,8 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -92,48 +82,19 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [HTML](https://html.com/)
+* [CSS](https://www.w3schools.com/css/css_intro.asp)
+* [JavaScript](https://www.javascript.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Introduction To Game
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Frogmania is a game about forming your frog empire! You and your loyal subjects will assimilate more and more frogs, eventually making it a streamline production of brilliance! As you build your empire you can dominate the world and thrive as the supperior life form! From regular old frogs to Alien frogeez maybe even the  most powerful of arcane wizardz... FROGLIN! So Tap Tap Tap away and build up your own frog regime! Dedicated to my younger brother Riker, the frog loving crazed  six year old! 
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -153,9 +114,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
+- [] Version 1.0.0
+- [] Version 1.0.1
+- [] Version 10.02
     - [] Nested Feature
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
