@@ -21,15 +21,13 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/DillonM07/Frogmania">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -132,18 +130,49 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [Game Debut] Release 12/01/21 12:58 PM
-- [Added function for FPS, now croaks give one FPS (FPS frogs per second)!
+Version 1.0.6 Patch Notes 12/13/21 1:29 PM
+Added Frog Essence Used For Rebirths (For Now)!!
+Added Frog Essence Per Second Counter!
+Added Rebirths To Make The Game A Bit More Fun & Last Longer!!
+Added Sroll Bars To The Two Existing Sections So It Looks A Bit Better!!
+Added A Pond Background To The Frog That You Click!
+I Super Organized The Code Too!
+Version 1.0.5 Patch Notes 12/09/21 5:31 PM
+Styled All Font With A Custom One!!
+Cleaned Up Back And Front End Code!
+Added Lily Pontoon(s) Gives +2 Frogs Per Second!
+Instead Of An Assimilate Frogs Button I Added A Frog Picture To Click!!
+Moved Croaks & Lily Pads Into Croak Production Section!!
+Changed Prices To Make Game Take Longer!
+Frog Also Shakes When You Click It!!
+Version 1.0.4 Patch Notes 12/07/21 8:57 AM
+Styled Title! Again...
+Styled Time Spent!! Again..?
+Cleaned Up All Code Front & Back End!
+Added Upgrades & Frog Militia!!
+Super Croakers Give +2 Frogs Per Second!!
+Croaketeer(s) Assimilate +1 Frogs Per Click & +2 Frogs Per Second!
+Split Everything Into Three Columns
+Made The Game More Fun Overall
+All Numbers Are Now Intergers!
+Version 1.0.3 Patch Notes 12/03/21 7:42 PM
+Styled Title!
+Styled Time Spent!
+Cleaned up CSS code a bit!!
+Version 1.0.2 Patch Notes 12/02/21 9:47 PM
+CSS not linking to HTML file fixed!!
+JavaScript not doing anything now fixed!!!
+Basicaly Version 1.0.1 just with the files all working
+Version 1.0.1 Patch Notes 12/02/21 9:34 PM
+Added function for FPS, now croaks give one FPS (FPS frogs per second)!
 Added functionality for lily pads, they now double your current ammount of FPC (Frogs Per Click)!
 New styling added, buttons are now green and 3D sorta... Some coloring for price and upgrade and frog amounts!
 Prices now increase after purchase, prices double for upgrades!
 First column done! Two more on their way with new upgrades!!
 There is now a timer to tell you how long you have been playing!
-Cleaned up the backend code!] Version 1.0.1
-- [CSS not linking to HTML file fixed!!
-JavaScript not doing anything now fixed!!!
-Basicaly Version 1.0.1 just with the files all working] Version 1.0.2
-    - [Secret Easter Egg] Version 1.0.2 Sercret!
+Cleaned up the backend code!
+Version 1.0.0 Patch Notes 12/01/21 12:58 PM
+Base game has been published!
 
 See the [open issues](https://github.com/DillonM07/Frogmania/issues) for a full list of proposed features (and known issues).
 
@@ -195,16 +224,13 @@ Project Link: ](https://github.com/DillonM07/Frogmania)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[contributors-shield]: https://img.shields.io/github/contributors/DillonM07/Frogmania.svg?style=for-the-badge
+[contributors-url]: https://github.com/DillonM07/Frogmania/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/DillonM07/Frogmania.svg?style=for-the-badge
+[forks-url]: https://github.com/DillonM07/Frogmania/network/members
+[stars-shield]: https://img.shields.io/github/stars/DillonM07/Frogmania.svg?style=for-the-badge
+[stars-url]: https://github.com/DillonM07/Frogmania/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DillonM07/Frogmania.svg?style=for-the-badge
+[issues-url]: https://github.com/DillonM07/Frogmania/issues
+[license-shield]: https://img.shields.io/github/license/DillonM07/Frogmania.svg?style=for-the-badge
+[product-screenshot]: https://images-ext-2.discordapp.net/external/Z7Om6fkTCVpn0VXk_q7oM0vnoHdX2VqhVnpb2_wgtc8/https/repository-images.githubusercontent.com/433945027/72500eb0-c0c6-4494-a7bf-78e74b32e149?width=500&height=250
