@@ -202,7 +202,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [BalancE_Dillon#7969](https://discord.com/)
 
-Project Link: ](https://github.com/DillonM07/Frogmania)
+Project Link: [Frogmania](https://github.com/DillonM07/Frogmania)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
