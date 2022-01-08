@@ -25,13 +25,13 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
+<br/>
 <div align="center">
   <a href="https://github.com/DillonM07/Frogmania">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://images-ext-2.discordapp.net/external/Z7Om6fkTCVpn0VXk_q7oM0vnoHdX2VqhVnpb2_wgtc8/https/repository-images.githubusercontent.com/433945027/72500eb0-c0c6-4494-a7bf-78e74b32e149?width=500&height=250" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Frogmania</h3>
 
   <p align="center">
     project_description
@@ -79,7 +79,6 @@
 
 [![Frogmanian Picture][Frogmania]](https://images-ext-2.discordapp.net/external/Z7Om6fkTCVpn0VXk_q7oM0vnoHdX2VqhVnpb2_wgtc8/https/repository-images.githubusercontent.com/433945027/72500eb0-c0c6-4494-a7bf-78e74b32e149?width=500&height=250)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
 
 Frogmania is a game about forming your frog empire! You and your loyal subjects will assimilate more and more frogs, eventually making it a streamline production of brilliance! Tap Tap Tap away and build up your own frog regime! Dedicated to my younger brother Riker, the frog loving crazed six year old!
 
