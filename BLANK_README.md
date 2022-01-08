@@ -115,8 +115,6 @@ Check back later... :C No one has submited them yet...
 ![image](https://user-images.githubusercontent.com/94626062/148658512-355c0ac5-f41b-40c5-b334-d2b455eba544.png)
 ![image](https://user-images.githubusercontent.com/94626062/148658544-53dac66e-b9b3-41ac-8050-3400a890743e.png)
 ![image](https://user-images.githubusercontent.com/94626062/148658427-3249ecee-bc83-4cd5-a3ec-9a52f2baf3bc.png)
-![image](https://user-images.githubusercontent.com/94626062/148658433-de229fc3-526b-4fa2-a27a-656356cf98d7.png)
-![image](https://user-images.githubusercontent.com/94626062/148658443-15bda858-0339-4f95-908e-3ed48e6e9b10.png)
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -127,48 +125,55 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-Version 1.0.6 Patch Notes 12/13/21 1:29 PM
-Added Frog Essence Used For Rebirths (For Now)!!
-Added Frog Essence Per Second Counter!
-Added Rebirths To Make The Game A Bit More Fun & Last Longer!!
-Added Sroll Bars To The Two Existing Sections So It Looks A Bit Better!!
-Added A Pond Background To The Frog That You Click!
-I Super Organized The Code Too!
-Version 1.0.5 Patch Notes 12/09/21 5:31 PM
-Styled All Font With A Custom One!!
-Cleaned Up Back And Front End Code!
-Added Lily Pontoon(s) Gives +2 Frogs Per Second!
-Instead Of An Assimilate Frogs Button I Added A Frog Picture To Click!!
-Moved Croaks & Lily Pads Into Croak Production Section!!
-Changed Prices To Make Game Take Longer!
-Frog Also Shakes When You Click It!!
-Version 1.0.4 Patch Notes 12/07/21 8:57 AM
-Styled Title! Again...
-Styled Time Spent!! Again..?
-Cleaned Up All Code Front & Back End!
-Added Upgrades & Frog Militia!!
-Super Croakers Give +2 Frogs Per Second!!
-Croaketeer(s) Assimilate +1 Frogs Per Click & +2 Frogs Per Second!
-Split Everything Into Three Columns
-Made The Game More Fun Overall
-All Numbers Are Now Intergers!
-Version 1.0.3 Patch Notes 12/03/21 7:42 PM
-Styled Title!
-Styled Time Spent!
-Cleaned up CSS code a bit!!
-Version 1.0.2 Patch Notes 12/02/21 9:47 PM
-CSS not linking to HTML file fixed!!
-JavaScript not doing anything now fixed!!!
-Basicaly Version 1.0.1 just with the files all working
-Version 1.0.1 Patch Notes 12/02/21 9:34 PM
-Added function for FPS, now croaks give one FPS (FPS frogs per second)!
-Added functionality for lily pads, they now double your current ammount of FPC (Frogs Per Click)!
-New styling added, buttons are now green and 3D sorta... Some coloring for price and upgrade and frog amounts!
-Prices now increase after purchase, prices double for upgrades!
-First column done! Two more on their way with new upgrades!!
-There is now a timer to tell you how long you have been playing!
-Cleaned up the backend code!
-Version 1.0.0 Patch Notes 12/01/21 12:58 PM
+### Version 1.0.6 Patch Notes 12/13/21 1:29 PM
+1) Added Frog Essence Used For Rebirths (For Now)!!
+2) Added Frog Essence Per Second Counter!
+3) Added Rebirths To Make The Game A Bit More Fun & Last Longer!!
+4) Added Sroll Bars To The Two Existing Sections So It Looks A Bit Better!!
+5) Added A Pond Background To The Frog That You Click!
+6) I Super Organized The Code Too!
+
+### Version 1.0.5 Patch Notes 12/09/21 5:31 PM
+1) Styled All Font With A Custom One!!
+2) Cleaned Up Back And Front End Code!
+3) Added Lily Pontoon(s) Gives +2 Frogs Per Second!
+4) Instead Of An Assimilate Frogs Button I Added A Frog Picture To Click!!
+5) Moved Croaks & Lily Pads Into Croak Production Section!!
+6) Changed Prices To Make Game Take Longer!
+7) Frog Also Shakes When You Click It!!
+
+### Version 1.0.4 Patch Notes 12/07/21 8:57 AM
+1) Styled Title! Again...
+2) Styled Time Spent!! Again..?
+3) Cleaned Up All Code Front & Back End!
+4) Added Upgrades & Frog Militia!!
+5) Super Croakers Give +2 Frogs Per Second!!
+6) Croaketeer(s) Assimilate +1 Frogs Per Click & +2 Frogs Per Second!
+7) Split Everything Into Three Columns
+8) Made The Game More Fun Overall
+9) All Numbers Are Now Intergers!
+
+### Version 1.0.3 Patch Notes 12/03/21 7:42 PM
+1) Styled Title!
+2) Styled Time Spent!
+3) Cleaned up CSS code a bit!!
+
+### Version 1.0.2 Patch Notes 12/02/21 9:47 PM
+1) CSS not linking to HTML file fixed!!
+2) JavaScript not doing anything now fixed!!!
+3) Basicaly Version 1.0.1 just with the files all working
+
+### Version 1.0.1 Patch Notes 12/02/21 9:34 PM
+1) Added function for FPS, now croaks give one FPS (FPS frogs per second)!
+2) Added functionality for lily pads, they now double your current ammount of FPC (Frogs Per Click)!
+3) New styling added, buttons are now green and 3D sorta... Some coloring for price and upgrade and frog amounts!
+4) Prices now increase after purchase, prices double for upgrades!
+5) First column done! Two more on their way with new upgrades!!
+6) There is now a timer to tell you how long you have been playing!
+7) Cleaned up the backend code!
+
+
+### Version 1.0.0 Patch Notes 12/01/21 12:58 PM
 Base game has been published!
 
 See the [open issues](https://github.com/DillonM07/Frogmania/issues) for a full list of proposed features (and known issues).
