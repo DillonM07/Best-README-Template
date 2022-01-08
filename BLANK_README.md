@@ -116,7 +116,6 @@ Check back later... :C No one has submited them yet...
 ![image](https://user-images.githubusercontent.com/94626062/148658544-53dac66e-b9b3-41ac-8050-3400a890743e.png)
 ![image](https://user-images.githubusercontent.com/94626062/148658427-3249ecee-bc83-4cd5-a3ec-9a52f2baf3bc.png)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
