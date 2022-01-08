@@ -38,14 +38,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DillonM07/Frogmania"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://dillonm07.github.io/Frogmania/">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/DillonM07/Frogmania/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/DillonM07/Frogmania/issues">Request Feature</a>
   </p>
 </div>
 
@@ -62,17 +62,14 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#installation">Game Reveiws</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Contributors</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contributing">How To Contribute</a></li>
+    <li><a href="#contact">Discord Server & ID</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -82,9 +79,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Frogmanian Picture][Frogmania]](https://images-ext-2.discordapp.net/external/Z7Om6fkTCVpn0VXk_q7oM0vnoHdX2VqhVnpb2_wgtc8/https/repository-images.githubusercontent.com/433945027/72500eb0-c0c6-4494-a7bf-78e74b32e149?width=500&height=250)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+
+Frogmania is a game about forming your frog empire! You and your loyal subjects will assimilate more and more frogs, eventually making it a streamline production of brilliance! Tap Tap Tap away and build up your own frog regime! Dedicated to my younger brother Riker, the frog loving crazed six year old!
+
+About Me:
+I started making this game on 11/31/21 on the day after my 14TH birthday and since then it has come a long way, the first release being just the day after, 12/01/21 12:58 PM, with a couple buttons and some very primative coding. Since then I have expanded my CSS capabilites and learned a lot, I even had a day where I was at almost four hundred veiws a couple hours after my fourth pre-alpha release on Version 1.0.4 Patch Notes 12/07/21 at 8:57 AM! I hope to grow as a developer and learn a lot, don't be scarce to tell what would make it a nicer experience! I still have a long way to go until Beta but I hope with some helping hands it could be sooner! - Your Croakin' Dev, Dillon Mowry
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,57 +95,33 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JavaScript](https://www.javascript.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Game Reveiws
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Check back later... :C No one has submited them yet... 
 
-### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+## Game Images
+![image](https://user-images.githubusercontent.com/94626062/148658413-09204541-020d-4721-9694-ab0cf406ea21.png)
+![image](https://user-images.githubusercontent.com/94626062/148658512-355c0ac5-f41b-40c5-b334-d2b455eba544.png)
+![image](https://user-images.githubusercontent.com/94626062/148658544-53dac66e-b9b3-41ac-8050-3400a890743e.png)
+![image](https://user-images.githubusercontent.com/94626062/148658427-3249ecee-bc83-4cd5-a3ec-9a52f2baf3bc.png)
+![image](https://user-images.githubusercontent.com/94626062/148658433-de229fc3-526b-4fa2-a27a-656356cf98d7.png)
+![image](https://user-images.githubusercontent.com/94626062/148658443-15bda858-0339-4f95-908e-3ed48e6e9b10.png)
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -153,19 +132,27 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
+- [Game Debut] Release 12/01/21 12:58 PM
+- [Added function for FPS, now croaks give one FPS (FPS frogs per second)!
+Added functionality for lily pads, they now double your current ammount of FPC (Frogs Per Click)!
+New styling added, buttons are now green and 3D sorta... Some coloring for price and upgrade and frog amounts!
+Prices now increase after purchase, prices double for upgrades!
+First column done! Two more on their way with new upgrades!!
+There is now a timer to tell you how long you have been playing!
+Cleaned up the backend code!] Version 1.0.1
+- [CSS not linking to HTML file fixed!!
+JavaScript not doing anything now fixed!!!
+Basicaly Version 1.0.1 just with the files all working] Version 1.0.2
+    - [Secret Easter Egg] Version 1.0.2 Sercret!
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/DillonM07/Frogmania/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contributors
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -177,26 +164,19 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+6. Message Me On Discord At BalancE_Dillon#7969
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [BalancE_Dillon#7969](https://discord.com/)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: ](https://github.com/DillonM07/Frogmania)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
