@@ -34,11 +34,10 @@
 <h3 align="center">Frogmania</h3>
 
   <p align="center">
-    project_description
-    <br />
+    <br/>
     <a href="https://github.com/DillonM07/Frogmania"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+    <br/>
+    <br/>
     <a href="https://dillonm07.github.io/Frogmania/">View Demo</a>
     ·
     <a href="https://github.com/DillonM07/Frogmania/issues">Report Bug</a>
